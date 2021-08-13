@@ -1,0 +1,527 @@
+#EXTM3U
+#EXTINF:-1,VTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTV2-Vie Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTV Key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Phim HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Du Lịch & Cuộc Sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda/htvcphunu_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htvcthuanviet_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist.m3u8
+#EXTINF:-1,FBNC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
+#EXTINF:-1,Blue Ant Entertainment HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Blue Ant Extreme HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+#EXTINF:-1,KIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Asian Food Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Da Vinci HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1,NHK World Japan HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:-1,DW (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Arirang Korea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1,CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1,France 24 English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
+#EXTINF:-1,TV5 MONDE ASIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist.m3u8
+#EXTINF:-1,NGC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1,Outdoor Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Cinemax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
+#EXTINF:-1,Channel V HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
+#EXTINF:-1,FOX Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist.m3u8
+#EXTINF:-1,FOX Sports 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist.m3u8
+#EXTINF:-1,FOX Movies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
+#EXTINF:-1,FOX Life HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
+#EXTINF:-1,FOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
+#EXTINF:-1,AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Warner Bros TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Cinema World HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Fashion TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Animax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Boomerang HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Baby First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+#EXTINF:-1,BBC Cbeebies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1,CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist.m3u8
+#EXTINF:-1,BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1,BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1,BBC World News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1,Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist.m3u8
+#EXTINF:-1,ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist.m3u8
+#EXTINF:-1,Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Discovery Asia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
+#EXTINF:-1,TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda1/travelliving_vhls.smil/chunklist.m3u8
+#EXTINF:-1,THVL1 HD (Vĩnh Long)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist.m3u8
+#EXTINF:-1,THVL2 HD (Vĩnh Long)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist.m3u8
+#EXTINF:-1,THVL3 HD (Vĩnh Long)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist.m3u8
+#EXTINF:-1,THVL4 HD (Vĩnh Long)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist.m3u8
+#EXTINF:-1,SCTV2-NETStars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTC4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTC5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC7-Today TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC12-VTCK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTC13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTC14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist.m3u8
+#EXTINF:-1,VTC16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist.m3u8
+#EXTINF:-1,VOV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist.m3u8
+#EXTINF:-1,H1 (Hà Nội)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist.m3u8
+#EXTINF:-1,H2 HD (Hà Nội)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV9-An Viên HD (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV10-NCM (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV11-TOP Homeshopping (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist.m3u8
+#EXTINF:-1,VTVcab 13-VTV Hyundai Homeshopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
+#EXTINF:-1,Quốc Hội HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist.m3u8
+#EXTINF:-1,QPVN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1,TTXVN-VNEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist.m3u8
+#EXTINF:-1,Nhân Dân TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist.m3u8
+#EXTINF:-1,ATV (An Giang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1,BRT HD (Bà Rịa-Vũng Tàu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist.m3u8
+#EXTINF:-1,BGTV HD (Bắc Giang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist.m3u8
+#EXTINF:-1,BLTV HD (Bạc Liêu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV HD (Bắc Ninh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist.m3u8
+#EXTINF:-1,THBT (Bến Tre)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV (Bình Định)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV1 HD (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV2 HD (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV4 HD (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,BTV6 (Bình Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist.m3u8
+#EXTINF:-1,BPTV1 (Bình Phước)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist.m3u8
+#EXTINF:-1,BPTV2-Home TV (Bình Phước)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist.m3u8
+#EXTINF:-1,BTV (Bình Thuận)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist.m3u8
+#EXTINF:-1,CTV HD (Cà Mau)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist.m3u8
+#EXTINF:-1,THTPCT (TP. Cần Thơ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist.m3u8
+#EXTINF:-1,CRTV (Cao Bằng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist.m3u8
+#EXTINF:-1,DaNang TV1 HD (Đà Nẵng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist.m3u8
+#EXTINF:-1,DaNang TV2 HD (Đà Nẵng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist.m3u8
+#EXTINF:-1,DRT (Đắk Lắk)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist.m3u8
+#EXTINF:-1,ĐTV (Điện Biên)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist.m3u8
+#EXTINF:-1,ĐNRTV1 HD (Đồng Nai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist.m3u8
+#EXTINF:-1,ĐNRTV2 HD (Đồng Nai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist.m3u8
+#EXTINF:-1,THĐT1 (Đồng Tháp)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
+#EXTINF:-1,THGL (Gia Lai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist.m3u8
+#EXTINF:-1,HGTV (Hà Giang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist.m3u8
+#EXTINF:-1,THHN (Hà Nam)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTTV (Hà Tĩnh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,THD (Hải Dương)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist.m3u8
+#EXTINF:-1,THP HD (Hải Phòng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist.m3u8
+#EXTINF:-1,HGTV (Hậu Giang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist.m3u8
+#EXTINF:-1,HBTV (Hòa Bình)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,HY (Hưng Yên)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist.m3u8
+#EXTINF:-1,KTV HD (Khánh Hòa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1,KG1 (Kiên Giang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist.m3u8
+#EXTINF:-1,KRT (Kon Tum)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist.m3u8
+#EXTINF:-1,LTV (Lâm Đồng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist.m3u8
+#EXTINF:-1,LTV (Lai Châu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist.m3u8
+#EXTINF:-1,LSTV (Lạng Sơn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist.m3u8
+#EXTINF:-1,THLC (Lào Cai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist.m3u8
+#EXTINF:-1,LA34 (Long An)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist.m3u8
+#EXTINF:-1,NTV (Nam Định)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,NTV (Nghệ An)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist.m3u8
+#EXTINF:-1,NTV (Ninh Bình)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,NTV (Ninh Thuận)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist.m3u8
+#EXTINF:-1,PTV HD (Phú Thọ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist.m3u8
+#EXTINF:-1,PTP HD (Phú Yên)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist.m3u8
+#EXTINF:-1,QBTV (Quảng Bình)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,QRT (Quảng Nam)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist.m3u8
+#EXTINF:-1,PTQ HD (Quảng Ngãi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist.m3u8
+#EXTINF:-1,QTV1 (Quảng Ninh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist.m3u8
+#EXTINF:-1,QTV3 (Quảng Ninh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist.m3u8
+#EXTINF:-1,QRTV (Quảng Trị)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist.m3u8
+#EXTINF:-1,STV1 (Sóc Trăng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist.m3u8
+#EXTINF:-1,STV (Sơn La)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist.m3u8
+#EXTINF:-1,TTV11 HD (Tây Ninh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist.m3u8
+#EXTINF:-1,TBTV (Thái Bình)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,TN1 HD (Thái Nguyên)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist.m3u8
+#EXTINF:-1,TTV (Thanh Hóa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1,TRT (Thừa Thiên Huế)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1,THTG (Tiền Giang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist.m3u8
+#EXTINF:-1,THTV HD (Trà Vinh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist.m3u8
+#EXTINF:-1,TTV HD (Tuyên Quang)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist.m3u8
+#EXTINF:-1,VP (Vĩnh Phúc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist.m3u8
+#EXTINF:-1,YTV (Yên Bái)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist.m3u8
+
+#EXTINF:-1,Sự Kiện 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://web-livecdn.fptplay.net/schedule/sukien03_hls.smil/chunklist.m3u8
+#EXTINF:-1,AFC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1,AFC 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
