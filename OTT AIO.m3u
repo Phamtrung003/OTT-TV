@@ -1,0 +1,242 @@
+#EXTM3U
+#EXTINF:-1,Event
+http://103.207.38.11:46803/htvtt
+#http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1,Astro Supersport HD
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 3 HD
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 2 HD
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 4 HD
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://193.33.88.172/football1_hd/index.m3u8
+#EXTINF:-1,Now Sports Prime HD
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://193.33.88.172/football2_hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1,SCTV2-NETStars
+https://8387d40698.vws.vegacdn.vn/live/netstars/chunklist_1.m3u8
+#EXTINF:-1,CCTV5
+rtmp://161.202.204.248/sat/cn021
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1,CCTV5+ HD
+rtmp://161.202.204.248/sat/cn051
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1,MNC Sports
+https://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
+#EXTINF:-1,VTVcab 6-ON Sports+ HD
+http://rglink.ml/vtvgo2.m3u8?id=196
+#EXTINF:-1,FOX Sports News Australia HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,BOX Movie 1 HD
+https://vtsstr1.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist_w1456966111_b4692000.m3u8
+#EXTINF:-1,Hollywood Classic HD
+https://vtsstr1.tv24.vn/live/Hollywood.smil/chunklist_w426368261_b4692000.m3u8
+#EXTINF:-1,MONO 29
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1,Happy Kids HD
+https://vtsstr1.tv24.vn/live/Happy_Kids.smil/chunklist_w462925246_b4692000.m3u8
+#EXTINF:-1,Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1,KBS World HD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1,tvN Premium HD
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1,Eleven Sports 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1,Oh!K HD
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1,VTV5 Tây Nam Bộ HD
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:-1,VTV5 Tây Nguyên
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:-1,CNN US HD
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NHK World Chinese HD
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,NipponTV News24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1,Animax HD (Malaysia FEED)
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1,Weather News HD
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1,Đồng Tháp 1
+http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+#EXTINF:-1,Đồng Tháp 2
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
+#EXTINF:-1,Bình Phước 1 HD
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1,THP+ HD
+https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1,Yên Bái HD
+https://yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1,LA34 HD
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1,VOV TV HD
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+#EXTINF:-1,OPT1 HD (Rus)
+https://cdn11.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
+#EXTINF:-1,BBC World News (4:3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1,Russia Today HD
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1,TV5 Monde Info HD
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1,DW English HD (Vidio)
+https://livestreaming-google-etslive.vidio.com/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1,DW Deutsch
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,DW Deutsch+
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Euronews
+https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6412_720p/index.m3u8
+#EXTINF:-1,ABC Australia (Vidio)
+https://livestreaming-google-etslive.vidio.com/hls-p/ingest_7150_720p/index.m3u8
+#EXTINF:-1,Aljazeera Arabic HD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1,Aljazeera English HD
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1,TRT World HD
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,Suria SG
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1,CH5 SG
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+#EXTINF:-1,CH8 SG
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+#EXTINF:-1,CH U SG
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+#EXTINF:-1,Vasantham SG
+http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+#EXTINF:-1,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,TV3 HD (Media Prima)
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1,TV9 (Media Prima)
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1,RTM TV1 HD
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1,RTM TV2 HD
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1,Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1,Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1,Astro Awani (sv2)
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1,TVS (Astro)
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
+#EXTINF:-1,Astro Ria HD
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1,Astro Prima HD
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1,Astro Ceria HD
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1,Thai PBS 3 HD (Thai Audio)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,ALTV 4 HD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,NBT 2 HD
+http://122.155.92.8:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1,NBT Central 11 HD
+http://122.155.92.8:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:-1,CH 7 Thai
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
+#EXTINF:-1,tvONE
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1,RCTI 
+https://cdn-livetv-studio.metube.id/rcti_480/index.m3u8
+#EXTINF:-1,SCTV
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:-1,Indosiar
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:-1,MNC TV (Vision+)
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+#EXTINF:-1,MNC TV
+https://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
+#EXTINF:-1,GTV
+https://cdn-livetv-studio.metube.id/globaltv_480/index.m3u8
+#EXTINF:-1,iNews
+https://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
+#EXTINF:-1,LIFE (MNC)
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+#EXTINF:-1,Trans TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w162527261_b744100_sleng.m3u8
+#EXTINF:-1,Trans 7
+https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+#EXTINF:-1,Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
+#EXTINF:-1,CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1,CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1,Metro TV
+https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
+#EXTINF:-1,Magna Channel HD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
+#EXTINF:-1,Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1,Nusantara TV
+https://v6.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1,MNC News
+https://cdn-livetv-studio.metube.id/mncnews_480/index.m3u8
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,Inspira TV
+https://v2.siar.us/inspiratv/live/chunks.m3u8
+#EXTINF:-1,TV9 Nusantara
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:-1,TVRI Sumbar
+http://wowza58.indostreamserver.com:1935/tvrisumbar/live2/chunklist.m3u8
+#EXTINF:-1,TVRI Riau HD
+https://edge.siar.us/tvririau/live/chunks.m3u8
+#EXTINF:-1,TVRI Sulteng HD
+https://v2.siar.us/tvrisulteng/live/chunks.m3u8
+#EXTINF:-1,TVRI NTT
+http://stream1.ninmedia.net:1935/tvrintt/rtmp.stream_360p/chunklist.m3u8
+#EXTINF:-1,RTB Sukmaindera HD
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1816416605_b2736000_sleng.m3u8
+#EXTINF:-1,RRI Net
+https://5d63d49f772ce.streamlock.net/rrinet/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,RRI Net HD
+https://cdnrrinet.rri.co.id/rrinet/live_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://media.vov1.vn/UploadImages/Config/vov1.png",VOV1
+https://stream.vov.vn/audio/vovvn1_vov1.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png",VOV2
+https://stream.vov.vn/audio/vovvn1_vov2.stream_aac/playlist.m3u8
+#EXTINF:-1,VOV3
+https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/logo_vovgt.png",VOV GT TP.HCM
+https://vovstream.1cdn.vn/vovlive/vovGTHCM.sdp_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/logo_vovgt.png",VOV GT Mekong
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/chunklist.m3u8
+#EXTINF:-1,VOV FM 89
+http://media.kythuatvov.vn:1936/live/VOV89.sdp/chunklist.m3u8
+#EXTINF:-1,VOH FM 99.9
+https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
+#EXTINF:-1,VOH FM 95.6
+https://strm.voh.com.vn/radio/channel1/chunklist.m3u8
+#EXTINF:-1,Test 1
+#EXTVLCOPT:http-user-agent="MNCNow/6.3.2/2.0 (Linux;Android 7.0) ExoPlayerLib/2.12.0"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#EXTINF:-1,Test 2
+#EXTVLCOPT:http-user-agent="MNCNow/6.3.2/2.0 (Linux;Android 7.0) ExoPlayerLib/2.12.0"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1,Test 3
+#EXTVLCOPT:http-user-agent="MNCNow/6.3.2/2.0 (Linux;Android 7.0) ExoPlayerLib/2.12.0"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1,Test 4
