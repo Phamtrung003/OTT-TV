@@ -280,7 +280,7 @@ https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1,Hanoicab 2-YouTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist.m3u
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist.m3u8
 #EXTINF:-1,BTV9-An Viên HD (Bình Dương)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist.m3u8
