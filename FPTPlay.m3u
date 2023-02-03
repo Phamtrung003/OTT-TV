@@ -527,16 +527,31 @@ https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b2500000.m
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Thể thao 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://vips-livecdn.fptplay.net/hdevent/fsport11_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/fnxsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1,Thể thao 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://vips-livecdn.fptplay.net/hdevent/fsport12_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/fnxsport/thethao12_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1,Thể thao 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://vips-livecdn.fptplay.net/hdevent/fsport13_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/fnxsport/thethao13_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1,Thể thao 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://vips-livecdn.fptplay.net/hdevent/fsport14_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1,Thể thao 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1,Thể thao 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/fnxsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1,Thể thao 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1,Thể thao 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1,Thể thao 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://vips-livecdn.fptplay.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1,Sự kiện 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/schedule/sukien02_hls.smil/chunklist_b2500000.m3u8
