@@ -55,6 +55,10 @@ https://smart-tv.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://smart-tv.livedoomovies.com:4432/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1,TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://smart-tv.livedoomovies.com:4432/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1,Nation TV 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
@@ -163,7 +167,7 @@ https://smart-tv.livedoomovies.com:4432/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://smart-tv.livedoomovies.com:4432/02_TRUEMUSIC_720p/chunklist.m3u8
-#EXTINF:-1,TNN 16
+#EXTINF:-1,TNN 16 (link2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://smart-tv.livedoomovies.com:4432/02_FoxSport3_TH_720p/chunklist.m3u8
