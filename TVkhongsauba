@@ -21,6 +21,22 @@ http://live.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1,HTV Thể thao HD (50fps)
 http://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:-1,HTV2
+http://live-zlr1.tv360.vn/manifest/HTV2/playlist_480p1p6.m3u8
+#EXTINF:-1,HTV3
+http://live-ali2.tv360.vn/manifest/HTV3/playlist_480p1p6.m3u8
+#EXTINF:-1,HTVC Gia đình
+http://live-ali4.tv360.vn/manifest/HTVC_Gia_Dinh/playlist_480p1p6.m3u8
+#EXTINF:-1,HTVC Phụ nữ
+http://live-zlr1.tv360.vn/manifest/HTVC_Phu_Nu/playlist_480p1p6.m3u8
+#EXTINF:-1,HTVC Thuần Việt
+http://live-zlr1.tv360.vn/manifest/HTVC_Thuan_Viet/playlist_480p1p6.m3u8
+#EXTINF:-1,HTVC Ca nhạc
+http://live-ali2.tv360.vn/manifest/HTVC_Ca_Nhac/playlist_480p1p6.m3u8
+#EXTINF:-1,HTVC+
+http://live-zlr1.tv360.vn/manifest/HTVC_Channel_B_SPR/playlist_480p1p6.m3u8
+#EXTINF:-1,HTVC Du lịch & Cuộc sống
+http://live-ali4.tv360.vn/manifest/HTVC_Du_Lich/playlist_480p1p6.m3u8
 #EXTINF:-1,SCTV6 HD
 http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1,VTC1 HD
