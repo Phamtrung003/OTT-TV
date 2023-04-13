@@ -292,7 +292,7 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/dongthaphd_hls.smil/chunklist.m3u8
 #EXTINF:-1,THGL HD (Gia Lai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,HGTV HD (Hà Giang)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist.m3u8
