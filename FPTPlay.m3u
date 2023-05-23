@@ -173,7 +173,7 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist.m3u8
 #EXTINF:-1,VOV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist.m3u8
-#EXTINF:-1,H1 (Hà Nội)
+#EXTINF:-1,H1 HD (Hà Nội)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist.m3u8
 #EXTINF:-1,Hanoicab 2-YouTV
@@ -359,7 +359,7 @@ https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist.m3u8
 #EXTINF:-1,PTP HD (Phú Yên)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist.m3u8
-#EXTINF:-1,QBTV (Quảng Bình)
+#EXTINF:-1,QBTV HD (Quảng Bình)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist.m3u8
 #EXTINF:-1,QRT (Quảng Nam)
