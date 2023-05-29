@@ -1,0 +1,262 @@
+#EXTM3U
+#EXTINF:-1,SCTV1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
+#EXTINF:-1,SCTV2
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8
+#EXTINF:-1,SCTV3-SeeTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/s1/index.m3u8
+#EXTINF:-1,SCTV4
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_w467902992_b1692000.m3u8
+#EXTINF:-1,SCTV5-SCJ
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv5/s1/index.m3u8
+#EXTINF:-1,SCTV6
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv6/s1/index.m3u8
+#EXTINF:-1,SCTV7
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8
+#EXTINF:-1,SCTV8-VITV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8
+#EXTINF:-1,SCTV9
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_w1949683192_b1692000.m3u8
+#EXTINF:-1,SCTV10-VTV Hyundai
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv10/s1/index.m3u8
+#EXTINF:-1,SCTV11
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
+#EXTINF:-1,SCTV12
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8
+#EXTINF:-1,SCTV13-LadyTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/sctv13/s1/index.m3u8
+#EXTINF:-1,SCTV14
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_w791306900_b1692000.m3u8
+#EXTINF:-1,SCTV15-SSport 2
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_w563011116_b1692000.m3u8
+#EXTINF:-1,SCTV16
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
+#EXTINF:-1,SCTV17-SSport
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_w1400783187_b1692000.m3u8
+#EXTINF:-1,SCTV18
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8
+#EXTINF:-1,SCTV19-Channel T
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
+#EXTINF:-1,SCTV20
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
+#EXTINF:-1,SCTV21-Việt Nam ký ức
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
+#EXTINF:-1,SCTV22-SSport 1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
+#EXTINF:-1,SCTV Phim Tổng hợp
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
+#EXTINF:-1,ON Sports
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/vtvcab3/index.m3u8
+#EXTINF:-1,ON Football
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w196617207_b1692000.m3u8
+#EXTINF:-1,ON Sports+
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
+#EXTINF:-1,VTVcab 1 | Vie Giải Trí
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
+#EXTINF:-1,ON Phim Việt
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
+#EXTINF:-1,ON Movies
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/vtvcab4/sd1/index.m3u8
+#EXTINF:-1,ON Echannel
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8
+#EXTINF:-1,ON O2TV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
+#EXTINF:-1,ON BiBi
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8
+#EXTINF:-1,ON InfoTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
+#EXTINF:-1,ON Cine
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
+#EXTINF:-1,ON StyleTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
+#EXTINF:-1,ON Music
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
+#EXTINF:-1,ON TrendingTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
+#EXTINF:-1,VTVcab 19 | Vie Dramas
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
+#EXTINF:-1,ON Vfamily
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/vtvcab20/index.m3u8
+#EXTINF:-1,VTV1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/vtv1/sd2/index.m3u8
+#EXTINF:-1,VTV2
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTINF:-1,VTV3
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv3/sd1/index.m3u8
+#EXTINF:-1,VTV4
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+#EXTINF:-1,VTV5
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+#EXTINF:-1,VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
+#EXTINF:-1,VTV Cần Thơ
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv6/sd2/index.m3u8
+#EXTINF:-1,VTV7
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8
+#EXTINF:-1,VTV8
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+#EXTINF:-1,VTV9
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv9_s2/index.m3u8
+#EXTINF:-1,HTV2
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/htv2/index.m3u8
+#EXTINF:-1,HTV3
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv3/index.m3u8
+#EXTINF:-1,HTV Key
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8
+#EXTINF:-1,HTV7
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8
+#EXTINF:-1,HTV9
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8
+#EXTINF:-1,VTC1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtc1/sd2/index.m3u8
+#EXTINF:-1,VTC5
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtc5/sd2/index.m3u8
+#EXTINF:-1,VTC7 | TodayTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/todaytv/index.m3u8
+#EXTINF:-1,VTC9
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/vtc9/sd1/index.m3u8
+#EXTINF:-1,VTC10
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtc10/index.m3u8
+#EXTINF:-1,TTXVN
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
+#EXTINF:-1,ANTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/antv/sd1/index.m3u8
+#EXTINF:-1,QPVN
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8
+#EXTINF:-1,Quốc Hội
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/qhvn/index.m3u8
+#EXTINF:-1,Nhân Dân
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/nhandantv/sd2/index.m3u8
+#EXTINF:-1,BOX Movie 1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
+#EXTINF:-1,Hollywood Classics
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
+#EXTINF:-1,Happy Kids
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
+#EXTINF:-1,Dr.Fit
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
+#EXTINF:-1,Woman
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
+#EXTINF:-1,Planet Earth
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8
+#EXTINF:-1,Music Box
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8
+#EXTINF:-1,CNA
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/cna/index.m3u8
+#EXTINF:-1,DW
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+#https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e4.endpoint.cdn.sctvonline.vn/hls/dw/index.m3u8
+#EXTINF:-1,TV5 Monde Asie
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/tv5/index.m3u8
+#EXTINF:-1,KBS World
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/kbsworld/index.m3u8
+#EXTINF:-1,LTV | Lai Châu
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/thlaichau/index.m3u8
+#EXTINF:-1,NTV | Ninh Bình
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/thninhbinh/index.m3u8
+#EXTINF:-1,NTV | Ninh Thuận
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/thninhthuan/index.m3u8
+#EXTINF:-1,BRT | Bà Rịa Vũng Tàu
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/brvt/index.m3u8
+#EXTINF:-1,TTV11 | Tây Ninh
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+#https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e3.endpoint.cdn.sctvonline.vn/hls/thtayninh/index.m3u8
+#EXTINF:-1,THVL1 | Vĩnh Long
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/thvl1_s2/index.m3u8
+#EXTINF:-1,THVL2 | Vĩnh Long
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/thvl2/sd2/index.m3u8
+#EXTINF:-1,HGTV | Hậu Giang
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thhaugiang/index.m3u8
+#EXTINF:-1,THĐT1 | Đồng Tháp
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thdongthap/index.m3u8
+#EXTINF:-1,THBT | Bến Tre
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/thbentre/index.m3u8
+#EXTINF:-1,ATV | An Giang
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/thangiang/index.m3u8
+#EXTINF:-1,THTG | Tiền Giang
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/thtiengiang/index.m3u8
