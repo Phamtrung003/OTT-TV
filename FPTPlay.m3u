@@ -119,6 +119,9 @@ https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist.m3u8
 #EXTINF:-1,H1 HD (Hà Nội)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist.m3u8
+#EXTINF:-1,H2 HD (Hà Nội)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
 #EXTINF:-1,Hanoicab 2-YouTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 #https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist.m3u8
