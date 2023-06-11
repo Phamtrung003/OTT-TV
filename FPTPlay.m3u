@@ -137,7 +137,7 @@ https://livecdn.fptplay.net/sdb/vgsshopping_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,VTVcab 13-VTV Hyundai Homeshopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist.m3u8
-#EXTINF:-1,ATV (An Giang)
+#EXTINF:-1,ATV HD (An Giang)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1,BRT HD (Bà Rịa-Vũng Tàu)
