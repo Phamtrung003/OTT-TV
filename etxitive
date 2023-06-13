@@ -233,6 +233,12 @@ https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn
 #EXTINF:-1,NTV | Ninh Thuận
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/thninhthuan/index.m3u8
+#EXTINF:-1,BTV1 | Bình Dương
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/btv1/index.m3u8
+#EXTINF:-1,BTV2 | Bình Dương
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/btv2/index.m3u8
 #EXTINF:-1,BRT | Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/brvt/index.m3u8
