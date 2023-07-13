@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,SCTV1
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 #EXTINF:-1,SCTV2
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
