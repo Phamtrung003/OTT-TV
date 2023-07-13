@@ -4,16 +4,16 @@
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
 #EXTINF:-1,SCTV2
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 #EXTINF:-1,SCTV3-SeeTV
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+hhttps://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 #EXTINF:-1,SCTV4
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 #EXTINF:-1,SCTV5-SCJ
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv5/index.m3u8
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
 #EXTINF:-1,SCTV6
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv6/index.m3u8
@@ -55,7 +55,7 @@ https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv18/index.m3u8
 #EXTINF:-1,SCTV19-Channel T
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv19/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 #EXTINF:-1,SCTV20
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv20/index.m3u8
@@ -67,7 +67,7 @@ https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:-1,SCTV Phim Tổng hợp
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 #EXTINF:-1,ON Sports
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/vtvcab3/index.m3u8
@@ -77,7 +77,7 @@ https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn
 #EXTINF:-1,ON Sports+
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
-#EXTINF:-1,VTVcab 1 | Vie Giải Trí
+#EXTINF:-1,VTVcab 1
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
 #EXTINF:-1,ON Phim Việt
@@ -110,7 +110,7 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1,ON TrendingTV
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
-#EXTINF:-1,VTVcab 19 | Vie Dramas
+#EXTINF:-1,VTVcab 19
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
 #EXTINF:-1,ON Vfamily
@@ -178,10 +178,10 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtc10/index.m3u8
 #EXTINF:-1,TTXVN
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/ttxvn/index.m3u8
 #EXTINF:-1,ANTV
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/antv/index.m3u8
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/antv/index.m3u8
 #EXTINF:-1,QPVN
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/qpvn/index.m3u8
@@ -190,7 +190,7 @@ https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thquochoi/index.m3u8
 #EXTINF:-1,Nhân Dân
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/nhandantv/index.m3u8
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/thnhandan/index.m3u8
 #EXTINF:-1,BOX Movie 1
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
@@ -257,12 +257,15 @@ https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1,THĐT1 | Đồng Tháp
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thdongthap/index.m3u8
+#EXTINF:-1,THĐT2-Miền Tây | Đồng Tháp
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thdt2/index.m3u8
 #EXTINF:-1,THBT | Bến Tre
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/thbentre/index.m3u8
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/thbt/index.m3u8
 #EXTINF:-1,ATV | An Giang
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/thangiang/index.m3u8
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/thangiang/index.m3u8
 #EXTINF:-1,THTG | Tiền Giang
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/thtiengiang/index.m3u8
