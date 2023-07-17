@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,MBC Gangwon-Youngdong HD
+http://123.254.72.24:1935/tvlive/livestream2/chunklist.m3u8
+#EXTINF:-1,Chuncheon MBC HD
+https://stream.chmbc.co.kr/TV/myStream/chunklist.m3u8
+#EXTINF:-1,MBC Chungbuk HD
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w1867190917.m3u8
+#EXTINF:-1,Wonju MBC
+#rtsp://live.wjmbc.co.kr/wjmbctv
+#EXTINF:-1,MBC Gyeongnam HD
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/chunklist.m3u8
+#EXTINF:-1,Daegu MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist.m3u8
+#EXTINF:-1,Daejeon MBC HD
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
+#EXTINF:-1,Busan MBC
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/chunklist.m3u8
+#EXTINF:-1,Ulsan MBC
+https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist.m3u8
+#EXTINF:-1,Yeosu MBC HD
+https://5c3639aa99149.streamlock.net/live_TV/tv/chunklist.m3u8
+#EXTINF:-1,Mokpo MBC HD
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist.m3u8
+#EXTINF:-1,Andong MBC
+https://live.andongmbc.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1,Jeonju MBC
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist.m3u8
+#EXTINF:-1,Jeju MBC
+https://wowza.jejumbc.com/live/tv_jejumbc/chunklist.m3u8
+#EXTINF:-1,KBS Dokdo Live HD
+http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/chunklist.m3u8
+#EXTINF:-1,JIBS HD
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1,G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist.m3u8
+#EXTINF:-1,TJB HD
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+#EXTINF:-1,CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1,KBC HD
+http://119.200.131.11:1935/KBCTV/tv/chunklist.m3u8
+#EXTINF:-1,JTV
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w374781735.m3u8
+#EXTINF:-1,TBC
+#http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1,KNN
+http://211.220.195.209:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
+#EXTINF:-1,UBC
+http://59.23.231.102:1935/live/UBCstream/chunklist.m3u8
