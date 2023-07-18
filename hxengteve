@@ -62,4 +62,8 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b90
 #EXTINF:-1,Test 3
 https://everylive.online/live/tvn/livestream.m3u8
 #EXTINF:-1,Test 4
+https://everylive.online/live/mnet/livestream.m3u8
+#EXTINF:-1,Test 5
 https://res.host.iptvfreemium.com/tvchosun2/origin2/_definst_/tvchosun_s3/chunklist.m3u8
+#EXTINF:-1,Test 6
+https://d3vsrxlpuric1q.cloudfront.net/ytn/main2_1920x1080_4000k.m3u8
