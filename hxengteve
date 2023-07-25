@@ -65,7 +65,7 @@ https://everylive.online/live/tvn/livestream.m3u8
 https://everylive.online/live/mnet/livestream.m3u8
 #EXTINF:-1,[HD] YTN Korean
 https://d3vsrxlpuric1q.cloudfront.net/ytn/main2_1920x1080_4000k.m3u8
-#EXTINF:-1,Test
+#EXTINF:-1,MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
 #EXTINF:-1,Test 2
 https://res.host.iptvfreemium.com/tvchosun2/origin2/_definst_/tvchosun_s3/chunklist.m3u8
