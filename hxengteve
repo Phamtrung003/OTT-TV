@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1,HD | MBC Gangwon-Youngdong
+#EXTINF:-1,[HD] MBC Gangwon-Youngdong
 http://123.254.72.24:1935/tvlive/livestream2/chunklist.m3u8
-#EXTINF:-1,HD | Chuncheon MBC
+#EXTINF:-1,[HD] Chuncheon MBC
 https://stream.chmbc.co.kr/TV/myStream/chunklist.m3u8
-#EXTINF:-1,HD | MBC Chungbuk
+#EXTINF:-1,[HD] MBC Chungbuk
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w1867190917.m3u8
 #EXTINF:-1,Wonju MBC
 #rtsp://live.wjmbc.co.kr/wjmbctv
-#EXTINF:-1,HD | MBC Gyeongnam
+#EXTINF:-1,[HD] MBC Gyeongnam
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/chunklist.m3u8
 #EXTINF:-1,Daegu MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist.m3u8
-#EXTINF:-1,HD | Daejeon MBC
+#EXTINF:-1,[HD] Daejeon MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist.m3u8
 #EXTINF:-1,Busan MBC
 https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/chunklist.m3u8
 #EXTINF:-1,Ulsan MBC
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist.m3u8
-#EXTINF:-1,HD | Yeosu MBC
+#EXTINF:-1,[HD] Yeosu MBC
 https://5c3639aa99149.streamlock.net/live_TV/tv/chunklist.m3u8
-#EXTINF:-1,HD | Mokpo MBC
+#EXTINF:-1,[HD] Mokpo MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist.m3u8
 #EXTINF:-1,Andong MBC
 https://live.andongmbc.co.kr/live/mbc/playlist.m3u8
@@ -27,29 +27,29 @@ https://live.andongmbc.co.kr/live/mbc/playlist.m3u8
 https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist.m3u8
 #EXTINF:-1,Jeju MBC
 https://wowza.jejumbc.com/live/tv_jejumbc/chunklist.m3u8
-#EXTINF:-1,HD | JIBS (SBS)
+#EXTINF:-1,[HD] JIBS | SBS
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1,G1 (SBS)
+#EXTINF:-1,G1 | SBS
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist.m3u8
-#EXTINF:-1,HD | TJB (SBS)
+#EXTINF:-1,[HD] TJB | SBS
 http://1.245.74.5:1935/live/tv/playlist.m3u8
-#EXTINF:-1,CJB (SBS)
+#EXTINF:-1,CJB | SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1,HD | KBC (SBS)
+#EXTINF:-1,[HD] KBC | SBS
 http://119.200.131.11:1935/KBCTV/tv/chunklist.m3u8
-#EXTINF:-1,JTV (SBS)
+#EXTINF:-1,JTV | SBS
 http://61.85.197.53:1935/jtv_live/myStream/chunklist_w374781735.m3u8
-#EXTINF:-1,TBC
+#EXTINF:-1,TBC | SBS
 #http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1,KNN (SBS)
+#EXTINF:-1,KNN | SBS
 http://211.220.195.209:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
-#EXTINF:-1,UBC (SBS)
+#EXTINF:-1,UBC | SBS
 http://59.23.231.102:1935/live/UBCstream/chunklist.m3u8
 #EXTINF:-1,KBS1 HD
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 #EXTINF:-1,KBS2 HD
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1,KBS Dokdo Live HD
+#EXTINF:-1,[HD] KBS Dokdo Live Camera
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/chunklist.m3u8
 #EXTINF:-1,EBS1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist.m3u8
@@ -63,7 +63,7 @@ https://everylive.online/live/jtbc/livestream.m3u8
 https://everylive.online/live/tvn/livestream.m3u8
 #EXTINF:-1,Mnet
 https://everylive.online/live/mnet/livestream.m3u8
-#EXTINF:-1,YTN Korean HD
+#EXTINF:-1,[HD] YTN Korean
 https://d3vsrxlpuric1q.cloudfront.net/ytn/main2_1920x1080_4000k.m3u8
 #EXTINF:-1,Test
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
