@@ -21,6 +21,16 @@ http://live.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1,HTV Thể thao HD (50fps)
 http://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:-1,Quốc Hội HD
+http://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+#EXTINF:-1,ANTV
+http://live.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
+#EXTINF:-1,QPVN HD
+http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
+#EXTINF:-1,Nhân Dân TV
+http://live-ali4.tv360.vn/manifest/Nhan_Dan_SPR/playlist_360p.m3u8
+#EXTINF:-1,TTXVN
+http://live-zlr1.tv360.vn/manifest/Vnews/playlist_480p1p6.m3u8
 #EXTINF:-1,HTV2
 http://live-zlr1.tv360.vn/manifest/HTV2/playlist_480p1p6.m3u8
 #EXTINF:-1,HTV3
@@ -43,16 +53,6 @@ http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1,VTC3 HD
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
-#EXTINF:-1,Quốc Hội HD
-http://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
-#EXTINF:-1,ANTV
-http://live.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
-#EXTINF:-1,QPVN HD
-http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
-#EXTINF:-1,Nhân Dân TV
-http://live-ali4.tv360.vn/manifest/Nhan_Dan_SPR/playlist_360p.m3u8
-#EXTINF:-1,TTXVN
-http://live-zlr1.tv360.vn/manifest/Vnews/playlist_480p1p6.m3u8
 #EXTINF:-1,Hà Nội 1
 http://live-ali2.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_480p1p6.m3u8
 #EXTINF:-1,THVL1 HD
