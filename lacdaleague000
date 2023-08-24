@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Live 1
+#EXTINF:-1,Live 1 (refresh lại list nếu không xem được)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/ad5710c7860f666561638881665825e0/1692986503283/livestream-01/livestream_dvr/alraed-alokhdoud_258t601/tracks-a1v4/mpegts
 #EXTINF:-1,Live 2
