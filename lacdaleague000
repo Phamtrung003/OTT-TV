@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Live 1 (refresh lại list nếu không xem được)
+#EXTINF:-1,Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
-https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/ad5710c7860f666561638881665825e0/1692986503283/livestream-01/livestream_dvr/alraed-alokhdoud_258t601/tracks-a1v4/mpegts
-#EXTINF:-1,Live 2
+https://hni-vtt-001-livecdn-vthcm-vnd.vieon.vn/4aaab00730dc7cea6eae4b84599fe1cd/1693072448986/livestream-01/livestream_dvr/alfateh-alnassr_268t701/tracks-a1v4/mpegts
+#EXTINF:-1,Live 2 (offline)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 https://hni-vtt-002-livecdn-vthcm-vnd.vieon.vn/e7602e1e218b225fb5fc024003285113/1692986460053/livestream-01/livestream_dvr/alriyadh-alittihad_258t601/tracks-a1v4/mpegts
