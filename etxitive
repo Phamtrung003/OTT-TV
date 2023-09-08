@@ -161,6 +161,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1,HTV9
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
+#EXTINF:-1,HTVC Shopping | VGS Shop
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/htvcvgs/index.m3u8
 #EXTINF:-1,VTC1
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8
