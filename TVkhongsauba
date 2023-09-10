@@ -23,6 +23,18 @@ http://live.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1,HTV Thể thao HD (50fps)
 http://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:-1,VTVcab 1
+https://live-zlr1.tv360.vn/manifest/VTVCab1_SPR/playlist_480p1p7.m3u8
+#EXTINF:-1,ON Cine
+https://live-ali2.tv360.vn/manifest/VTVCab10_SPR/playlist_480p1p7.m3u8
+#EXTINF:-1,ON Kids HD
+https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
+#EXTINF:-1,ON Golf HD
+https://live-ali2.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-167M.m3u8
+#EXTINF:-1,Happy Kids HD
+https://live-ali2.tv360.vn/manifest/HappyKids_HD/playlist_1080p.m3u8
+#EXTINF:-1,Outdoor HD
+https://live-ali2.tv360.vn/manifest/OutdoorChannel_HD/playlist_1080p.m3u8
 #EXTINF:-1,Quốc Hội HD
 http://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #EXTINF:-1,ANTV
@@ -33,10 +45,16 @@ http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/Nhan_Dan_SPR/playlist_480p1p6.m3u8
 #EXTINF:-1,TTXVN
 http://live-zlr1.tv360.vn/manifest/Vnews/playlist_480p1p6.m3u8
+#EXTINF:-1,HTV1
+https://live-ali2.tv360.vn/manifest/HTV1/playlist_480p1p7.m3u8
 #EXTINF:-1,HTV2
 http://live-zlr1.tv360.vn/manifest/HTV2/playlist_480p1p6.m3u8
 #EXTINF:-1,HTV3
 http://live-ali2.tv360.vn/manifest/HTV3/playlist_480p1p6.m3u8
+#EXTINF:-1,HTV Key
+https://live-ali2.tv360.vn/manifest/HTV4/playlist_480p1p7.m3u8
+#EXTINF:-1,HTV9 HD
+https://live-ali2.tv360.vn/manifest/HTV9_HD/playlist_1080p.m3u8
 #EXTINF:-1,HTVC Gia đình
 http://live-ali4.tv360.vn/manifest/HTVC_Gia_Dinh/playlist_480p1p6.m3u8
 #EXTINF:-1,HTVC Phụ nữ
@@ -53,8 +71,14 @@ http://live-ali4.tv360.vn/manifest/HTVC_Du_Lich/playlist_480p1p6.m3u8
 http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1,VTC1 HD
 http://live.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+#EXTINF:-1,VTC2
+https://live-ali2.tv360.vn/manifest/VTC2_SPR_SD/playlist_480p.m3u8
 #EXTINF:-1,VTC3 HD
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTINF:-1,VTC11
+https://live-ali2.tv360.vn/manifest/VTC11_SPR/playlist_480p1p7.m3u8
+#EXTINF:-1,VTC13 HD
+https://live-ali2.tv360.vn/manifest/VTC13_HD/playlist_1080p.m3u8
 #EXTINF:-1,Hà Nội 1
 http://live-ali2.tv360.vn/manifest/Ha_Noi_1_SPR/playlist_480p1p6.m3u8
 #EXTINF:-1,THVL1 HD
