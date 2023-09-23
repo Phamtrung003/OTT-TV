@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,VTV1 HD
 http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1,VTV1 HD (50fps)
-http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1,VTV2 HD
 http://live-ali2.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1,VTV3 HD
