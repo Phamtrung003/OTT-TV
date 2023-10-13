@@ -56,7 +56,8 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1,EBS2
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1,TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
+https://www.jobstv24.com/liveedge/live33/chunklist_w1432189585_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjk3MTkzNzU1Jndvd3phdG9rZW5lbmR0aW1lPTE2OTcyMDQ1NTUmd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1saXZlMzMmd293emF0b2tlbmhhc2g9QUtOQkNrNjJJWTFPd0kySWdCTXhOYXZmclFwN0pfcDlwWWJneERJZUlqcz0=.m3u8?site=365tv&ch=live33&pm=P&wowzatokenstarttime=1697193755&wowzatokenendtime=1697204555&wowzatokenCustomParameter=live33&wowzatokenhash=AKNBCk62IY1OwI2IgBMxNavfrQp7J_p9pYbgxDIeIjs=
+#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 #EXTINF:-1,JTBC
 https://everylive.online/live/jtbc/livestream.m3u8
 #EXTINF:-1,tvN
