@@ -14,6 +14,9 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 #EXTINF:-1,SCTV5-SCJ
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:-1,SCTV5-SCJ 🔁
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/htvcvgs/index.m3u8
 #EXTINF:-1,SCTV6
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
@@ -161,9 +164,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1,HTV9
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
-#EXTINF:-1,HTVC Shopping | VGS Shop
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://e2.endpoint.cdn.sctvonline.vn/hls/htvcvgs/index.m3u8
 #EXTINF:-1,VTC1
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8
