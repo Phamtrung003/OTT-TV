@@ -45,13 +45,11 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_w791306900_b1692000.m3u8
 #EXTINF:-1,SCTV15-SSport 2
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
 #EXTINF:-1,SCTV16
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #EXTINF:-1,SCTV17-SSport
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 #EXTINF:-1,SCTV18
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
@@ -66,6 +64,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
 #EXTINF:-1,SCTV22-SSport 1
+https://oipf0znpmnliv.vcdn.cloud/hls/sctv22/index.m3u8
+#EXTINF:-1,SCTV22-SSport 1 🔁
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:-1,SCTV Phim Tổng hợp
