@@ -64,8 +64,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
 #EXTINF:-1,SCTV22-SSport 1
-https://oipf0znpmnliv.vcdn.cloud/hls/sctv22/index.m3u8
-#EXTINF:-1,SCTV22-SSport 1 🔁
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:-1,SCTV Phim Tổng hợp
