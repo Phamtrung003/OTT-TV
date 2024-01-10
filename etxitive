@@ -69,7 +69,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:-1,SCTV Phim Tổng hợp
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
-#EXTINF:-1,VTVcab 1
+#EXTINF:-1,ON Vie Giải Trí
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
 #EXTINF:-1,ON Phim Việt
@@ -102,7 +102,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
 #EXTINF:-1,ON TrendingTV
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
-#EXTINF:-1,VTVcab 19
+#EXTINF:-1,ON Vie Dramas
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
 #EXTINF:-1,ON Vfamily
