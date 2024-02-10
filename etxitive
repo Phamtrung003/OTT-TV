@@ -261,3 +261,6 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/thangiang/index.m3u8
 #EXTINF:-1,THTG | Tiền Giang
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/thtiengiang/index.m3u8
+#EXTINF:-1,test
+#EXTVLCOPT:http-referrer=https://beinmatch.motorcycles/
+https://akamai541.tarik-chuu23f.shop/live/bein18/index.m3u8
