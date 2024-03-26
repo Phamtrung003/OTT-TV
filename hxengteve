@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1,TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
-#EXTINF:-1,TV Chosun (temp)
-https://www.memetv1.com/liveedge/live13/chunklist_w385384809_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzExNDU0NzE0Jndvd3phdG9rZW5lbmR0aW1lPTE3MTE0NjU1MTQmd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1saXZlMTMmd293emF0b2tlbmhhc2g9QXZyVUVtSnpCME1ucTFQZDV2Q3YxM00xRGZrejJKNHJYNFljMW16ak01RT0=.m3u8?site=365tva&ch=live13&pm=P
-#EXTINF:-1,[HD] MBC Gangwon-Youngdong
-http://123.254.72.24:1935/tvlive/livestream2/chunklist.m3u8
 #EXTINF:-1,[HD] Chuncheon MBC
 https://stream.chmbc.co.kr/TV/myStream/chunklist.m3u8
+#EXTINF:-1,TV Chosun
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[HD] MBC Gangwon-Youngdong
+http://123.254.72.24:1935/tvlive/livestream2/chunklist.m3u8
 #EXTINF:-1,[HD] MBC Chungbuk
 http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w1867190917.m3u8
 #EXTINF:-1,Wonju MBC
