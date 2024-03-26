@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TV Chosun
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 #EXTINF:-1,TV Chosun (temp)
 https://www.memetv1.com/liveedge/live13/chunklist_w385384809_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzExNDU0NzE0Jndvd3phdG9rZW5lbmR0aW1lPTE3MTE0NjU1MTQmd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1saXZlMTMmd293emF0b2tlbmhhc2g9QXZyVUVtSnpCME1ucTFQZDV2Q3YxM00xRGZrejJKNHJYNFljMW16ak01RT0=.m3u8?site=365tva&ch=live13&pm=P
 #EXTINF:-1,[HD] MBC Gangwon-Youngdong
@@ -57,8 +59,6 @@ http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/chunklist.m3u8
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1,EBS2
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/chunklist.m3u8
-#EXTINF:-1,TV Chosun
-https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 #EXTINF:-1,JTBC
 https://everylive.online/live/jtbc/livestream.m3u8
 #EXTINF:-1,tvN
