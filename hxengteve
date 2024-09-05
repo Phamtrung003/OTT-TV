@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1,KBS2 (temp)
+https://4gr4dymttgwanhcjqgoa14aufqp48g7d1cios4mubqbay.wslivehls.com/beststream.app/beststream/live1005/playlist.m3u8?wsSecret=bd33f491ca0877384178ca86093e5f30&wsTime=1725534233&site=ogtv10&wsSession=a18020dc16f9649b65c969ce-172553420521809&wsIPSercert=89716b854e956318922da60eba7bff59&wsiphost=local&wsBindIP=1
 #EXTINF:-1,[HD] Chuncheon MBC
 https://stream.chmbc.co.kr/TV/myStream/chunklist.m3u8
-#EXTINF:-1,KBS2 (temp)
-https://www.memetv1.com/liveedge/live05/chunklist_w203708337_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzExNDU1NjAyJndvd3phdG9rZW5lbmR0aW1lPTE3MTE0NjY0MDImd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1saXZlMDUmd293emF0b2tlbmhhc2g9eHR5M0RMYjVXaDEtS09Fc1JSU0tTZk1hTVZLNlptanFWVEg2aHZDMkJpYz0=.m3u8?site=365tva&ch=live05&pm=P
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 #EXTINF:-1,[HD] MBC Gangwon-Youngdong
