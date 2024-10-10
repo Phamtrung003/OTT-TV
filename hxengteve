@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,KBS2 (temp)
-https://4gr4dymttgwanhcjqgoa14aufqp48g7d1cios4mubqbay.wslivehls.com/beststream.app/beststream/live1005/playlist.m3u8?wsSecret=bd33f491ca0877384178ca86093e5f30&wsTime=1725534233&site=ogtv10&wsSession=a18020dc16f9649b65c969ce-172553420521809&wsIPSercert=89716b854e956318922da60eba7bff59&wsiphost=local&wsBindIP=1
-#EXTINF:-1,[HD] Chuncheon MBC
+#EXTINF:-1,MBC (temp)
+https://4grauqmtofaauqmttgo514aufqp48g7d1cios4mubqbay.wslivehls.com/beststream.app/beststream/live107/playlist.m3u8?wsSecret=9c7073b7ec3cb9dae7aee4c43b14b8e1&wsTime=1728571400&site=ogtv&wsSession=5e0762f63e462157825f8b38-172857137257503&wsIPSercert=e70eae15fc915c8f86d235614705b039&wsiphost=local&wsBindIP=1
 https://stream.chmbc.co.kr/TV/myStream/chunklist.m3u8
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
