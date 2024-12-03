@@ -51,9 +51,9 @@ http://211.220.195.209:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
 #EXTINF:-1,UBC | SBS
 http://59.23.231.102:1935/live/UBCstream/chunklist.m3u8
 #EXTINF:-1,[HD] KBS1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 #EXTINF:-1,[HD] KBS2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1,[HD] KBS Dokdo Live Camera
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/chunklist.m3u8
 #EXTINF:-1,EBS1
@@ -61,11 +61,11 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1,EBS2
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1,JTBC
-https://everylive.online/live/jtbc/livestream.m3u8
+#https://everylive.online/live/jtbc/livestream.m3u8
 #EXTINF:-1,tvN
-https://everylive.online/live/tvn/livestream.m3u8
+#https://everylive.online/live/tvn/livestream.m3u8
 #EXTINF:-1,Mnet
-https://everylive.online/live/mnet/livestream.m3u8
+#https://everylive.online/live/mnet/livestream.m3u8
 #EXTINF:-1,[HD] YTN Korean
 https://d3vsrxlpuric1q.cloudfront.net/ytn/main2_1920x1080_4000k.m3u8
 #EXTINF:-1,MBC America
