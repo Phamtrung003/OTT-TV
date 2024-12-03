@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,MBC (temp)
-#https://4grauqmtofaauqmttgo514aufqp48g7d1cios4mubqbay.wslivehls.com/beststream.app/beststream/live107/playlist.m3u8?wsSecret=9c7073b7ec3cb9dae7aee4c43b14b8e1&wsTime=1728571400&site=ogtv&wsSession=5e0762f63e462157825f8b38-172857137257503&wsIPSercert=e70eae15fc915c8f86d235614705b039&wsiphost=local&wsBindIP=1
+#EXTINF:-1,KBS1 (temp)
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1733410705&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzM0MTA3MDV9fX1dfQ__&Signature=bz~JU6d~cy2eDLNSzqhugOHYbq0ijMtV1YiKObz1JYOLT2v82x2kFqCDTDOm7Zz4LpF4ztuWim7OfL2sWGFjv0zHKDH2V9eF8fz9~JgLExOYs5mLfMMVcsAutznvwN0xtiG3~NqYYEgJkcFuDbqonGTCmcb5nCAK69LfRKjAFvEpUUJR6gh88L-dvXb-7~cIMNT081Hv-e-jWm1mXEijVhiPVManaHZbcNhHzS1yFLHxDngkvvnCKF65cNImOezUk6qDWy0FjT1YgsQzDN77e71DTH8H6R0rEgCoj9GKFC5kHWpNyStcG6ujOwNzTDLkNSXSwD81ilFN3XOoj2JAZA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,Chuncheon MBC
 https://stream.chmbc.co.kr/TV/myStream/chunklist.m3u8
 #EXTINF:-1,TV Chosun
